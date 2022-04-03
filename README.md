@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá! Meu nome é Rafael Rodrigues, moro em Piracicaba/SP e me resumo como:
  
-  * Aspirante a contador de números em histórias; <br>
+  * Aspirante a tranformar números em histórias; <br>
   * Menino do T.I. nas horas vagas;<br>
   * Estudante do 1º semestre de <strong>Ciência de Dados</strong>, no Mackenzie;<br><br>
   </p>
