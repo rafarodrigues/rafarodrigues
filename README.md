@@ -5,7 +5,7 @@
  
   * Aspirante a tranformar números em histórias; <br>
   * Menino do T.I. nas horas vagas;<br>
-  * Estudante do 1º semestre de <strong>Ciência de Dados</strong>, no Mackenzie;<br><br>
+  * Estudante do 1º semestre de `Ciência de Dados`, no Mackenzie;<br><br>
   </p>
   
 <p align="left">
