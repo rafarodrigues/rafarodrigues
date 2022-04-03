@@ -9,7 +9,7 @@
   </p>
   
 <p align="left">
-  👨🏽‍💻  Linguagens e 💼 Ferramentas:<br></p>
+  👨🏽‍💻  Linguagens e ✂️ Ferramentas:<br></p>
 <p align="left">  
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=LINK-DO-SEU-EMAIL" />
@@ -32,3 +32,6 @@
   <a href="https://www.kaggle.com/rafarodrigues33" alt="Kaggle">
   <img src="https://img.shields.io/badge/Kaggle-20beff?style=flat-square&labelColor=20beff&logo=Kaggle&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 </p>  
+
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=rafarodrigues&hide=html&layout=compact&theme=tokyonight)
+
