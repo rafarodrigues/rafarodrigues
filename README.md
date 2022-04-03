@@ -1,10 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
-
+  Olá! Meu nome é Rafael Rodrigues, moro em Piracicaba/SP e me resumo como:
+ 
+  * Aspirante a contador de histórias com números <br>
+  * Menino do T.I. nas horas vagas<br>
+  * Estudante do 1º semestre de <strong>Ciência de Dados</strong>, no Mackenzie.<br><br>
+  </p>
+  
 <p align="left">
   🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
 </p>
@@ -24,6 +27,6 @@
   <a href="https://www.linkedin.com/in/rafael-rodrigues-945269180/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <a href="#" alt="Kaggle">
+  <img src="kaggle.png"/></a>
 </p>  
