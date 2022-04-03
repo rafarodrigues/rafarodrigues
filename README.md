@@ -3,30 +3,30 @@
 <p align="left"> 
   Olá! Meu nome é Rafael Rodrigues, moro em Piracicaba/SP e me resumo como:
  
-  * Aspirante a contador de histórias com números <br>
-  * Menino do T.I. nas horas vagas<br>
-  * Estudante do 1º semestre de <strong>Ciência de Dados</strong>, no Mackenzie.<br><br>
+  * Aspirante a contador de números em histórias; <br>
+  * Menino do T.I. nas horas vagas;<br>
+  * Estudante do 1º semestre de <strong>Ciência de Dados</strong>, no Mackenzie;<br><br>
   </p>
   
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>Python;</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>Excel; PowerBI; Machine Learning;</strong><br><br>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Podem me encontrar aqui: ⤵️
 </p>
 
 <p align="left">
+<a href="https://www.linkedin.com/in/rafael-rodrigues-945269180/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
   <a href="mailto:'rafarodrigues33@gmail.com'" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/in/rafael-rodrigues-945269180/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="Kaggle">
-  <img src="kaggle.png"/></a>
+  <a href="https://www.kaggle.com/rafarodrigues33" alt="Kaggle">
+  <img src="https://github.com/rafarodrigues/rafarodrigues/blob/main/README/badges/k.png"/></a>
 </p>  
