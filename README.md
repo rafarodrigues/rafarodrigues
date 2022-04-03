@@ -28,5 +28,5 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.kaggle.com/rafarodrigues33" alt="Kaggle">
-  <img src="https://github.com/rafarodrigues/rafarodrigues/blob/main/README/badges/k.png"/></a>
+  <img src="https://github.com/rafarodrigues/rafarodrigues/blob/main/README/badges/k2.png"/></a>
 </p>  
