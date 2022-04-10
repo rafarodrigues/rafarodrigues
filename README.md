@@ -23,13 +23,13 @@
 </p>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rafael-rodrigues-945269180/" alt="Linkedin">
+<a href="https://www.linkedin.com/in/rafael-rodrigues-945269180/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="mailto:'rafarodrigues33@gmail.com'" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.kaggle.com/rafarodrigues33" alt="Kaggle">
+  <a href="https://www.kaggle.com/rafarodrigues33" target="_blank" alt="Kaggle">
   <img src="https://img.shields.io/badge/Kaggle-20beff?style=flat-square&labelColor=20beff&logo=Kaggle&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 </p>  
 
