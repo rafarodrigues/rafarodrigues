@@ -4,8 +4,7 @@
   Olá! Meu nome é Rafael Rodrigues, moro em Piracicaba/SP e me resumo como:
  
   * Aspirante a Cientista de Dados; <br>
-  * Cara do T.I. nas horas vagas;<br>
-  * Estudante do 2º semestre de `Ciência de Dados`, no Mackenzie;<br><br>
+  * Estudante do 4º semestre de `Ciência de Dados`, no Mackenzie;<br><br>
   </p>
   
 <p align="left">
