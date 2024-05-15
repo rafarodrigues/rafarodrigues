@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&labelColor=F37626&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-f3f6f4?style=for-the-badge&logo=pandas&logoColor=purple"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44a833?style=for-the-badge&labelColor=44a833&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44a833?style=for-the-badge&labelColor=44a833&logo=anaconda&logoColor=white" /></br>
   <img src="https://img.shields.io/badge/scikitlearn-14354C?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&labelColor=4479a1&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=orange" />
