@@ -9,7 +9,7 @@
   * Estudante do 5º semestre de `Ciência de Dados`, no Mackenzie;
   * Estudante de Microsoft Azure;
 
-  
+  <br>
 <p align="left">
   👨🏽‍💻  Linguagens e ✂️ Ferramentas:<br></p>
 <p align="left">  
