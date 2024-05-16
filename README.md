@@ -32,11 +32,8 @@
 </p>
 
 -  <a href="https://github.com/rafarodrigues/visao-computacional" target="_blank">Visão Computacional</a>
-
 -  <a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia" target="_blank">Bootcamp Analista em Tecnologia Nuvem e IA da Microsoft</a>
-
 -  <a href="https://github.com/rafarodrigues/Analises-Exploratorias-de-Dados" target="_blank">Análises Exploratórias de Dados</a>
-
 -  <a href="https://github.com/rafarodrigues/Machine-Learning" target="_blank">Aprendizado de Máquina (Machine Learning)</a>
 <br><br>
 <p align="left">
