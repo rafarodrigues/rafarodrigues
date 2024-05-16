@@ -4,10 +4,10 @@
   Olá! Meu nome é Rafael Rodrigues, moro em Piracicaba/SP e me resumo como: </br>
  
   * Aspirante a Cientista de Dados; <br>
-  * Estudante de Inteligência Artificial e Visão Computacional; <br>
-  * Residente Tecnológico na técnica de Few-Shot Learning em Visão Computacional; <br>
+  * Estudante de Inteligência Artificial e `Visão Computacional`; <br>
+  * `Residente Tecnológico` na técnica de Few-Shot Learning em Visão Computacional; <br>
   * Estudante do 5º semestre de `Ciência de Dados`, no Mackenzie;
-  * Estudante de Microsoft Azure;
+  * Estudante de Microsoft `Azure`;
 
   <br>
 <p align="left">
