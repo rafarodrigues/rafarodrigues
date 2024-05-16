@@ -1,13 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Olá! Meu nome é Rafael Rodrigues, moro em Piracicaba/SP e me resumo como:</br>
+
+  Olá! Meu nome é Rafael Rodrigues, moro em Piracicaba/SP e me resumo como: </br>
  
   * Aspirante a Cientista de Dados; <br>
   * Estudante de Inteligência Artificial e Visão Computacional; <br>
   * Residente Tecnológico na técnica de Few-Shot Learning em Visão Computacional; <br>
-  * Estudante do 5º semestre de `Ciência de Dados`, no Mackenzie;<br><br>
-  </p>
+  * Estudante do 5º semestre de `Ciência de Dados`, no Mackenzie;
+  * Estudante de Microsoft Azure;
+
   
 <p align="left">
   👨🏽‍💻  Linguagens e ✂️ Ferramentas:<br></p>
@@ -25,9 +26,21 @@
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=#FF6F00" />
   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=#FF6F00" /></p>
   <br>
-
+  
 <p align="left">
-  💌 Podem me encontrar aqui: ⤵️
+  ✔️ Pode começar por aqui: 
+</p>
+
+-  <a href="https://github.com/rafarodrigues/visao-computacional" target="_blank">Visão Computacional</a>
+
+-  <a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia" target="_blank">Bootcamp Analista em Tecnologia Nuvem e IA da Microsoft</a>
+
+-  <a href="https://github.com/rafarodrigues/Analises-Exploratorias-de-Dados" target="_blank">Análises Exploratórias de Dados</a>
+
+-  <a href="https://github.com/rafarodrigues/Machine-Learning" target="_blank">Aprendizado de Máquina (Machine Learning)</a>
+<br><br>
+<p align="left">
+  📧 Podem me encontrar aqui: 
 </p>
 
 <p align="left">
@@ -40,6 +53,7 @@
   <a href="https://www.kaggle.com/rafarodrigues33" target="_blank" alt="Kaggle">
   <img src="https://img.shields.io/badge/Kaggle-20beff?style=flat-square&labelColor=20beff&logo=Kaggle&logoColor=white" /></a>
 </p>  
+<br>
 
 ![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=rafarodrigues&hide=html&layout=compact&theme=tokyonight)
 
