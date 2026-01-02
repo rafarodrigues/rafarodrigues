@@ -3,12 +3,9 @@
 
   Olá! Meu nome é Rafael Rodrigues, moro em Santo André/SP e me resumo como: </br>
  
-  * Aspirante a `Cientista de Dados`; <br>
+  * `Cientista de Dados` em constate aprendizado; <br>
   * Estudante de Inteligência Artificial e `Visão Computacional`; <br>
-  * `Residente Tecnológico` na técnica de Few-Shot Learning em Visão Computacional; <br>
-  * Estudante do último semestre de Ciência de Dados, no `Mackenzie`;
-  * Estudante de `Microsoft Azure`;
-
+  
   <br>
 <p align="left">
   👨🏽‍💻  Linguagens e ✂️ Ferramentas:<br></p>
