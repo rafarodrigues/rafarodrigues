@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-  Olá! Meu nome é Rafael Rodrigues, moro em Santo André/SP e me resumo como: </br>
+  Olá! Meu nome é Rafael Rodrigues, moro em Piracicaba/SP e me resumo como: </br>
  
   * `Cientista de Dados` em constate aprendizado; <br>
   * Estudante de Inteligência Artificial e `Visão Computacional`; <br>
